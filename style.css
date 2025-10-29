@@ -1,0 +1,62 @@
+/* Status badges */
+.status-open {
+    color: #28a745;
+    font-weight: bold;
+    padding: 4px 12px;
+    background-color: #d4edda;
+    border-radius: 4px;
+}
+
+.status-closed {
+    color: #dc3545;
+    font-weight: bold;
+    padding: 4px 12px;
+    background-color: #f8d7da;
+    border-radius: 4px;
+}
+
+/* Poll cards */
+div[data-testid="stContainer"] {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+/* Buttons */
+.stButton button {
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-weight: 500;
+}
+
+/* Text inputs */
+.stTextInput input {
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.stTextInput input:focus {
+    border-color: #007BFF;
+    outline: none;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #f8f9fa;
+}
+
+section[data-testid="stSidebar"] .stButton button {
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+/* Metrics */
+div[data-testid="stMetric"] {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}

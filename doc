@@ -1,0 +1,27 @@
+ <!-- The Core Concept -->
+The core concept is to create a dynamic and interactive web application that bridges data science/analytics with a user-friendly web interface. The application's purpose is to transform raw data (or analytical models) into actionable insights accessible via a browser, eliminating the need for complex software installations.
+
+
+<!-- Overall Intentions of the Project -->
+Simplify Access: To provide easy access to complex data and models through a simple web interface.
+
+Enable Decisions: To generate clear, reliable visualizations and metrics that allow users to make informed decisions quickly.
+
+Ensure Quality: To establish distinct roles (especially QA and Data Specialist) that guarantee the application is both technically sound and analytically accurate.
+
+
+<!-- Members, Assigned Role and Primary Focus -->
+Sharon Bamfo Yirenkyi: Project Manager
+"Overall strategy, timeline, and resource allocation."
+
+Francis Kojo Mensah: Backend Developer
+"Server logic, API endpoints, and data processing scripts."
+
+Oppong Isaac Karikari: Data Specialist
+"Data collection, cleaning, warehousing, and database management."
+
+David: Visualization & Analytics
+"Designing and implementing the data charts, graphs, and statistical models."
+
+Derick Appiah: Feature Developer & QA
+"Building new UI components, integrating features, and testing for bugs."
